@@ -4,6 +4,7 @@ My collection of web projects linked.
 # Harvest United
 
 Live Website : https://mighty-falls-28563.herokuapp.com/
+
 Github : https://github.com/spoofBlue/Server-Capstone
 
 Project Summary: Harvest United. This site connects restaurants and markets that naturally hold excess food, with non-profit organizations (food shelters, soup kitchens) for a food exchange.
@@ -13,7 +14,9 @@ Key Technologies : HTML, CSS, Materialize.css, Javascript, JQuery, Node.js, Expr
 # Our Two Cents
 
 Live Website : https://damp-mesa-79990.herokuapp.com/landing-page (Functional, but not aesthetically ready yet)
+
 Github Front-end: https://github.com/spoofBlue/Our-Two-Cents-client
+
 Github Back-end: https://github.com/spoofBlue/Our-Two-Cents-API
 
 [ Currently Under Construction ]
@@ -25,6 +28,7 @@ Key Technologies : HTML, CSS, Javascript, React.js, React-Redux, Node.js, Expres
 # Urban City Discovery
 
 Live Website : https://spoofblue.github.io/Urban_City_Discovery/
+
 Github : https://github.com/spoofBlue/Urban_City_Discovery
 
 Project Summary: Users can interact with the map to select 250 of the most populated cities in the world, receiving ratings on a plethora of criteria, including cost of living, venture capital, and environmental quality.  Basic wikipedia information is provided to users as well.  Additionally, users can search for specific towns and cities for a wikipedia summary.
