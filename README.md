@@ -3,7 +3,7 @@ My collection of web projects linked.
 
 # Harvest United
 
-Live Website : https://mighty-falls-28563.herokuapp.com/
+Live Website : https://mighty-falls-28563.herokuapp.com/ , (If you would like an account with entries already included, sign in with the username "Bobby" and the password "hellohello" without the quotation marks. When searching for entries, use the zipcode "12345", both the "Donator" and "Receiver" radio buttons show results.)
 
 Github : https://github.com/spoofBlue/Server-Capstone
 
@@ -24,6 +24,7 @@ Key Technologies : Javascript, Node.js, Express, Chai, Mocha, used Git, NPM, Nod
 # Our Two Cents
 
 Live Website : https://damp-mesa-79990.herokuapp.com/landing-page (Functional, but not aesthetically ready yet)
+(If you would like two accounts to recreate a conversation, you must either use two computers, or two browsers on the same computer.  Pre-made account names you could use are "aa@aa" and "bb@bb", both with the password "hellohello")
 
 Github Front-end: https://github.com/spoofBlue/Our-Two-Cents-client
 
