@@ -13,13 +13,15 @@ Key Technologies : HTML, CSS, Materialize.css, Javascript, JQuery, Node.js, Expr
 
 # Vehicle Valuation API
 
-Live API (with dummy parameters filled in) : https://cryptic-plains-11682.herokuapp.com/value?make=honda&model=civic&marketvalue=5000&age=0&owners=1&mileage=0&collisions=0
+Client that uses this API  : https://cryptic-plains-11682.herokuapp.com/
+
+Example call to the API : https://cryptic-plains-11682.herokuapp.com/value?make=honda&model=civic&marketvalue=5000&age=0&owners=1&mileage=0&collisions=0
 
 Github : https://github.com/spoofBlue/Vehicle-Valuation-API
 
 Project Summary : Created in several days. A server with an API that receives vehicle information, validates the vehicle's make/model through a 3rd party API and provides the estimated cost of the vehicle given several criteria (marketvalue, age, owners, mileage, collisions).
 
-Key Technologies : Javascript, Node.js, Express, Chai, Mocha, used Git, NPM, Nodemon, Travis CI, Heroku, and the NHTSA Vehicle API ( car make/model data)
+Key Technologies : Javascript, Node.js, Express, Chai, Mocha, used Git, NPM, Nodemon, Travis CI, Heroku, and the NHTSA Vehicle API ( car make/model data), HTML/CSS/JQuery (for client)
 
 # Our Two Cents
 
